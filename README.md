@@ -1,5 +1,5 @@
 **Work record in David lab(2019.7.30-2019.8.25)**
-#### Ⅰ. Single-cell RNA-seq analysis        ⅥⅦ Ⅷ
+#### Ⅰ. Single-cell RNA-seq analysis       
 ##### Day2 single-cell RNA-seq analysis: Seurat package
 ###### 1. batch effect assessment
 *Script : "single-cell-RNA-batch.r*
