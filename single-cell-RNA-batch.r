@@ -25,3 +25,7 @@ pancreas.integrated <- RunUMAP(pancreas.integrated, reduction = "pca", dims = 1:
 p1 <- DimPlot(pancreas.integrated, reduction = "umap", group.by = "tech")
 p2 <- DimPlot(pancreas.integrated, reduction = "umap", group.by = "celltype", label = TRUE, repel = TRUE) + NoLegend()
 plot_grid(p1, p2)`
+
+# debug: no UMAP
+https://github.com/satijalab/seurat/issues/1760
+
