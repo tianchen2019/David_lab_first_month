@@ -1,0 +1,29 @@
+###ATAC-seq
+track type=bigWig name="D0_WT_R1_Normal" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/C1E6B6C2-E1F4-4E5D-940A-B063BC958F6E/D0_WT_R1_Norm.bw
+track type=bigWig name="D0_WT_R2_Normal" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/7567F652-C4B5-4FD5-BA50-FDEB35F11152/D0_WT_R2_Norm.bw
+track type=bigWig name="D2_WT_R1_Normal" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/8708C248-6DF6-4572-B076-275A73944753/D2_WT_R1.bw
+track type=bigWig name="D2_WT_R2_Normal" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/C5961FCE-3CBF-4628-88BF-A9A98EAED115/D2_WT_R2_Norm.bw
+track type=bigWig name="D7_WT_R1_Normal" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/2EF224B8-035D-4CE1-8D62-C73579FB880E/D7_WT_R1_Norm.bw
+track type=bigWig name="D7_WT_R2_Normal" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/0CB87BB7-00F3-40C7-949C-3D1FD3899C1C/D7_WT_R2_Norm.bw
+track type=bigWig name="D0_Kras_R1_Normal" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/9D8BBD70-C2AD-43A2-BAA8-8A413CBCE03A/D0_Kras_R1_Norm.bw
+track type=bigWig name="D0_Kras_R2_Normal" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/AA6015B6-0CEB-4693-AE31-A32DE07F756C/D0_Kras_R2_Norm.bw
+track type=bigWig name="D2_Kras_R1_Normal" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/893C9676-A31D-40BE-B8D2-FBA8D7670951/D2_Kras_R1_Norm.bw
+track type=bigWig name="D2_Kras_R2_Normal" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/248AB787-F05F-442A-A444-7F86453BBEFB/D2_Kras_R2_Norm.bw
+track type=bigWig name="D7_Kras_R1_Normal" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/B6760C53-8D6D-42AB-9732-7E5A505E02C7/D7_Kras_R1_Norm.bw
+track type=bigWig name="D7_Kras_R2_Normal" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/CDF52D4E-BEC8-4DA1-98A9-D7E1AFA7D08A/D7_Kras_R2_Norm.bw
+
+
+
+##CHIP-seq
+track type=bigWig name="Fosl1+KrasG12D_ChIP" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/FA717AD0-4151-4D79-A3FC-2676B3DE3C23/Fosl1+KrasG12D_ChIP.bw
+track type=bigWig name="Foxa2+KrasG12D_ChIP" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/00D32029-64F8-4680-B5A0-80350047D5E6/Foxa2+KrasG12D_ChIP.bw
+track type=bigWig name="Foxa2-KrasG12D_ChIP" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/5CDB1D3C-3975-41D1-BAE9-366CD8A686F0/Foxa2-KrasG12D_ChIP.bw
+track type=bigWig name="H3K27ac+KrasG12D_ChIP" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/F4A6720C-ED0E-4C7C-8C7A-11AAB1A2B8D9/H3K27ac+KrasG12D_ChIP.bw
+track type=bigWig name="H3K27ac-KrasG12D_ChIP" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/29B02ECE-8530-413E-A15B-FA0E37A0EA2A/H3K27ac-KrasG12D_ChIP.bw
+track type=bigWig name="H3K4me1+KrasG12D_ChIP" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/33C0BA4A-012B-419C-95E8-3C8B241ABA07/H3K4me1+KrasG12D_ChIP.bw
+track type=bigWig name="H3K4me1-KrasG12D_ChIP" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/2AB4D51D-8C19-4927-B5D6-196771C3F393/H3K4me1-KrasG12D_ChIP.bw
+track type=bigWig name="Junb+KrasG12D_ChIP" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/CE4B0283-9A5A-4A6D-951E-46C75D1C462D/Junb+KrasG12D_ChIP.bw
+track type=bigWig name="Klf5+KrasG12D_ChIP" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/5FCFC12E-3130-4753-9F70-F15C9DBDE138/Klf5+KrasG12D_ChIP.bw
+track type=bigWig name="Klf5-KrasG12D_ChIP" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/22684D7E-8D60-4C75-8435-0B410AE8D0A7/Klf5-KrasG12D_ChIP.bw
+track type=bigWig name="PDAC+KrasG12D_R1" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/F0D20C37-8A33-4204-9449-A79E40F9FBB9/PDAC+KrasG12D_R1.bw
+track type=bigWig name="PDAC+KrasG12D_R2" description="A bigWig file" bigDataUrl=https://de.cyverse.org/dl/d/EE18C47E-C66E-422F-9DAA-C5B72931FA8C/PDAC+KrasG12D_R2.bw
