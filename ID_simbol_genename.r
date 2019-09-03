@@ -10,3 +10,4 @@ gene_up_id = getLDS(attributes = c("ensembl_gene_id"), filters = "ensembl_gene_i
                     values = gene_kras_up_filter$ensembl_gene_id , mart = mouse, attributesL = c("ensembl_gene_id", "hgnc_symbol", "entrezgene_id"), 
                     martL = human, uniqueRows=T)
 `https://www.jianshu.com/p/33e22a558457`
+### uniqueRows记住变成F，按照原始顺序排的
