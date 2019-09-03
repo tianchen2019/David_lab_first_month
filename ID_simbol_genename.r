@@ -1,5 +1,5 @@
 *Script : ID_simbol_genename.r*
-also can see in the network: https://www.jianshu.com/p/33e22a558457
+also can see in the network: https://www.jianshu.com/p/33e22a558457     ； https://www.jianshu.com/p/f7d1f0ffb27e
 library(biomaRt)
 library(clusterProfiler)
 library(org.Hs.eg.db)
