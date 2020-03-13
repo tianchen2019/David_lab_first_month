@@ -62,3 +62,14 @@ FeaturePlot(object = klf5_d2, features = c("Ttn", "D10Wsu102e","Sfrp5",
 
 top50 <- klf5_d2.markers %>% group_by(cluster) %>% top_n(n = 50, wt = avg_logFC)
 DoHeatmap(klf5_d2, features = top50$gene, size = 2)`
+#### change heatmap's color
+DoHeatmap(clu_qubatch_hoxb_sig_2, features = top15$gene, size = 6)+
+  theme(
+    axis.text.y = element_text(size = 10,
+                               family = "Times",face = "bold",colour = "black"))+
+  scale_fill_gradient2(
+    low = "blue",
+    mid = "white",
+    high ="red",
+    name = "Expression"
+  )
